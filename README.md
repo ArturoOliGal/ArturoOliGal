@@ -1,7 +1,7 @@
 # José Arturo Olivares Gallegos 
-## Data analyst and data scientist JR
+## Data analyst and data scientist JR & project manager
 
-I'm an passionate about data analysis and continuous improvement, with over 1 year of experience. Developing strategies for process optimization in the logistics area. An example of my passion as a data scientist is that I created an algorithm for an optimal route in a warehouse for the picking process.
+Passionate about data analysis, managment projects and continuous improvement, with over 1 year of experience. Developing strategies for process optimization and managment projects.
 
 <p aling = "left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-arturo-olivares-gallegos-837a41252/">
